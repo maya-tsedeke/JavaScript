@@ -4,7 +4,7 @@ These exercises were designed to help learning basic skills in javascript
 
 ## Prerequisites
 
-Create a Github account if you haven't and setup your [ssh key](https://docs.github.com/en/enterprise-server@3.0/github/authenticating-to-github/connecting-to-github-with-ssh) for authentication.
+Create a Github account if you haven't and setup your [ssh key](https://docs.github.com/en/enterprise-server@3.0/github/authenticating-to-github/connecting-to-github-with-ssh) for authentications.
 
 ## Instructions
 
